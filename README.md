@@ -45,7 +45,7 @@ Measures & Dimensions:
 
 Measures (14 columns): Ridership & % of Pre-Pandemic Day for each transit mode.
 
-Dimensions (2 columns): Date, Transit Mode. ✅ (Done)
+Dimensions (2 columns): Date, Transit Mode.)
 
 ----------------------------------------------------------------------------------------------------------
 🎯 Business Questions
@@ -86,7 +86,7 @@ What is the total number of passengers across all transportation modes per day?
 
 Which mode of transportation has the highest ridership?
 
-How can public transit services be improved based on ridership data? ✅ (Done)
+How can public transit services be improved based on ridership data? 
 
 ------------------------------------------------------------------------------------------------------------
 📈 Main Metrics & KPIs
@@ -119,7 +119,7 @@ How can public transit services be improved based on ridership data? ✅ (Done)
 
 5️⃣ Service Optimization & Decision Making
 
-✅ Top Busiest Stations → Recognizing high-demand locations. ✅ (Done)
+✅ Top Busiest Stations → Recognizing high-demand locations. 
 
 ------------------------------------------------------------------------------------------------------
 🎨 Dashboard Mockup - MTA Ridership Analysis
@@ -196,13 +196,13 @@ Dim Transportation Modes Table: Removed duplicates, linked to Fact Table.
 
 Dim Calendar Table: Extracted Year, Month, Day, and Quarter from Date.
 
-Linked both Dim Tables to Fact Table for improved analysis. ✅ (Done)
+Linked both Dim Tables to Fact Table for improved analysis. 
 
 5️⃣ Output & Deliverables
 
 Cleaned Dataset → Ready for analysis.
 
-Data Preprocessing Notebook → Documents all Power Query transformations. ✅ (Done)
+Data Preprocessing Notebook → Documents all Power Query transformations.
 
 ------------------------------------------------------------------------------------------------------------------
 🔗 Repository Structure
